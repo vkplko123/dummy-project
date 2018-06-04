@@ -36,7 +36,7 @@ public class TestBase
 	
 	public TestBase()
 	{
-		if(driver==null)
+		if(driver!=null)
 		{
 			try 
 			{
